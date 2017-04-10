@@ -52,3 +52,4 @@ https://arxiv.org
 
 [ML awesome](https://github.com/josephmisiti/awesome-machine-learning)
 [Data science awesome](https://github.com/bulutyazilim/awesome-datascience)
+[List of beginner courses](http://datascienceacademy.com/free-data-science-courses/)
