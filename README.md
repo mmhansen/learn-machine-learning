@@ -49,3 +49,6 @@ http://cs231n.github.io/aws-tutorial/
 https://arxiv.org
 
 [more books](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning/)
+
+[ML awesome](https://github.com/josephmisiti/awesome-machine-learning)
+[Data science awesome](https://github.com/bulutyazilim/awesome-datascience)
