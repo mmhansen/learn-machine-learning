@@ -50,6 +50,8 @@ https://arxiv.org
 
 [more books](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning/)
 
-[ML awesome](https://github.com/josephmisiti/awesome-machine-learning)
-[Data science awesome](https://github.com/bulutyazilim/awesome-datascience)
-[List of beginner courses](http://datascienceacademy.com/free-data-science-courses/)
+[ML awesome](https://github.com/josephmisiti/awesome-machine-learning)  
+[Data science awesome](https://github.com/bulutyazilim/awesome-datascience)  
+[List of beginner courses](http://datascienceacademy.com/free-data-science-courses/)   
+[Maths for ML](https://elitedatascience.com/learn-math-for-data-science)    
+[OSS](https://github.com/open-source-society/data-science)  
