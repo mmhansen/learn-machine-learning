@@ -22,7 +22,10 @@ For now, I'm just assembling tons of resources, but it will take a more certain 
 9. BOOK - [Python Data Sciene](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## The timeline    
-04-10-17 ARTICLE - [Learn machine learning](https://elitedatascience.com/learn-machine-learning)  
+04-10-17 ARTICLE - [Learn machine learning](https://elitedatascience.com/learn-machine-learning)    
+04-10-17 BOOK - [Think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)  
+
+NEXT UP - [Python the hard way](https://learnpythonthehardway.org/book/)
 
 ## Extras  
 
@@ -55,3 +58,7 @@ https://arxiv.org
 [List of beginner courses](http://datascienceacademy.com/free-data-science-courses/)   
 [Maths for ML](https://elitedatascience.com/learn-math-for-data-science)    
 [OSS](https://github.com/open-source-society/data-science)  
+
+
+[Numpy beginner video](https://www.youtube.com/watch?v=gtejJ3RCddE)
+[Pandas intro video](https://www.youtube.com/watch?v=ZrRpN_IrcBA)
