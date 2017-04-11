@@ -24,6 +24,7 @@ For now, I'm just assembling tons of resources, but it will take a more certain 
 ## The timeline    
 04-10-17 ARTICLE - [Learn machine learning](https://elitedatascience.com/learn-machine-learning)    
 04-10-17 BOOK - [Think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html)  
+04-10-17 COURSE - [Basic Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x#!)
 
 NEXT UP - [Python the hard way](https://learnpythonthehardway.org/book/)
 
@@ -62,3 +63,29 @@ https://arxiv.org
 
 [Numpy beginner video](https://www.youtube.com/watch?v=gtejJ3RCddE)
 [Pandas intro video](https://www.youtube.com/watch?v=ZrRpN_IrcBA)
+
+
+----
+
+Start April 10th
+Finish August 18th
+19 weeks for mathematical foundations.
+
+1. Linear Algebra - Foundations to Frontiers
+2. Applications of Linear Algebra Part 1
+3. Applications of Linear Algebra Part 2
+4. Calculus 1A: Differentiation
+5. Calculus 1B: Integration
+6. Calculus 1C: Coordinate Systems & Infinite Series
+7. MIT OCW Multivariable Calculus
+8. Introduction to Computer Science and Programming Using Python
+9. Introduction to Computational Thinking and Data Science
+10. Introduction to Python for Data Science
+11. Programming with Python for Data Science
+12. Introduction to Probability
+13. Statistical Reasoning
+14. Introduction to Statistics: Descriptive Statistics
+15. Introduction to Statistics: Probability
+16. Introduction to Statistics: Inference
+
+20 weeks to end of year
